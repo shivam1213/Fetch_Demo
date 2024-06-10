@@ -6,11 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the fetch coding exercise, It's completely written in dart and flutter. To run this code, just install the dart sdk from flutter official website and clone this repository to your android studio. You are all set then run on your emulator or the real device. I've also added the apk file for this app, so you can run it directly.
